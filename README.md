@@ -1,2 +1,2 @@
 # Bioinformatics
-Bioinformatics 2017-2018 UJ
+Bioinformatics 2017-2018
